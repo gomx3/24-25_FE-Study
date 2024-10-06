@@ -12,7 +12,7 @@
 9. [Mediator/Middleware Pattern]()
 10. [HOC Pattern](/HOC/HOC.md)
 11. [Render Props Pattern]()
-12. [Hooks Pattern]()
+12. [Hooks Pattern](/Hooks.md)
 13. [Flyweight Pattern]()
 14. [Factory Pattern]()
 15. [Compound Pattern]()
